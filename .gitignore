@@ -1,1 +1,4 @@
 .DS_Store
+TOKEN.json
+.venv
+__pycache__
